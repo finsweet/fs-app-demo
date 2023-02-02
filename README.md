@@ -12,6 +12,7 @@ The app is very minimal and barebones: no fancy styles, API calls are mocked, in
 - Render lists.
 - Display skeleton loaders while awaiting for the API responses. All components are handled independently without waterfalls.
 - Dynamic template page (tickets) using query parameters.
+- E2E tests.
 
 ## References
 
